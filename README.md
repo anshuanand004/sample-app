@@ -43,15 +43,18 @@ Create build for the application
 `npm run build`  
 
 
-To Start: 
-This will launch the app as with bundle.js using webpack config. 
-
-`npm run start`  
-
 
 To Visit App:
 
-`localhost:3000/`  
+`localhost:3000/`
+
+
+Static Server:
+You can use the app with static server with below command
+
+`serve -s build`
+
+`http://localhost:5000`  
 
 ## App Screenshots
 
