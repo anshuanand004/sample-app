@@ -55,9 +55,9 @@ To Visit App:
 
 ## App Screenshots
 
-![Alt text](/assets/img/Screen2.png?raw=true "Admin")
+![Screenshot](https://github.com/anshuanandu06ec004/sample-app/blob/main/src/assets/img/Screen1.png)
 
-![Alt text](/assets/img/Screen1.png?raw=true "Manager")
+![Screenshot](https://github.com/anshuanandu06ec004/sample-app/blob/main/src/assets/img/Screen2.png)
 
 
 
