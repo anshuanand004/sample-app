@@ -2,7 +2,7 @@
 
 
 This is a sample application created to demonstrate standard capabilities of React Library.
-As aprt of this app we have build a single page application to fetch and represent data from GraphQL based backend.
+As part of this app we have build a single page application to fetch and represent data from GraphQL based backend.
 React, Typescript , Material UI and aws Amplify are used to build the client side and backend is using awssync based GraphQL service. 
 
 ## Project Status
