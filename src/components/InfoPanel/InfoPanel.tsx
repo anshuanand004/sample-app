@@ -1,9 +1,8 @@
 import { Card, CardContent, Grid, Table, TableBody, TableContainer, TableRow, Typography } from '@material-ui/core';
 import { makeStyles } from '@material-ui/core/styles';
-import PropTypes from 'prop-types';
 import React from 'react';
-import InfoButton from './InfoButton';
 import { InfoPanelProp } from '../../interface/Interface';
+import InfoButton from './InfoButton';
 
 const useStyles = makeStyles({
     root: {

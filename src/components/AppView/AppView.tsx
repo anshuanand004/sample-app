@@ -30,10 +30,10 @@ const AppView: React.FC = (props) => {
     React.useEffect(() => {
         if (isMounted.current) {
             fetchZellerCustomer().then(function (res) {
-                if (res != undefined) {
+                if (res !== undefined) {
                     data = res;
                     // save the response data for all the roles
-                    if (data != null && data.length > 0) {
+                    if (data !== null && data.length > 0) {
                         const filteredData = data.filter((i) => i.role === selectedRole)
                         // save filtered data to be shown on UI
                         updateDataTable(filteredData);

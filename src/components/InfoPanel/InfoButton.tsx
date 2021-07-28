@@ -29,7 +29,7 @@ const useStyles = makeStyles({
  * @returns 
  */
 const InfoButton: React.FC<InfoButtonProp> = (props) => {
-    const { name, role, ...rest } = props;
+    const { name, role} = props;
     const classes = useStyles();
 
     return (
